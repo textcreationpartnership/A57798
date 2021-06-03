@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall remonstrance with a declaration to the people touching our Soveraign Lord King Charles; and two excellent speeches spoken by his Royal Majesty, for the restoring of all his loyall subjects to their just rights, laws, liberties, and freedoms. With the proclaiming of the Kings most excellent Majesty (yesterday) in Middlesex, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c. And the honorable commissioners of Parliament beginnning [sic] their journey the same day to wait upon his Majesty, with the Parliaments letter and answer, to his Majesties gracious message and declaration; and the desires of both Houses.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57798</idno><idno type="EEBO-CITATION">99831195</idno>
+  <idno type="VID">35658</idno>
+  <idno type="EEBO-PROQUEST">2240891473</idno>
+  
+            <idno type="STC">Wing R2151</idno>
+            <idno type="STC">ESTC R219747</idno>
+            <idno type="PROQUEST">99831195</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831195e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2040:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall remonstrance with a declaration to the people touching our Soveraign Lord King Charles; and two excellent speeches spoken by his Royal Majesty, for the restoring of all his loyall subjects to their just rights, laws, liberties, and freedoms. With the proclaiming of the Kings most excellent Majesty (yesterday) in Middlesex, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c. And the honorable commissioners of Parliament beginnning [sic] their journey the same day to wait upon his Majesty, with the Parliaments letter and answer, to his Majesties gracious message and declaration; and the desires of both Houses.</title>
+                  <author>Charles II, King of England, 1630-1685. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for W. Parker and are to be sold at Ludgate-Hill, and within Black-Friers Gate,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Stained, with print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35658:1"/>
+            <p>THE ROYALL REMONSTRANCE: WITH A Declaration to the People touching our Soveraign Lord King <hi>CHARLES;</hi> And two excellent Speeches spo<g ref="char:EOLhyphen"/>ken by his Royal Majesty, for the restoring of all his Loyall Subjects to their just Rights, Laws, Liberties, and Freedoms. With the proclaiming of the Kings most excellent Majesty (yesterday) in <hi>Middlesex,</hi> King of <hi>England, Scotland, Fran<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> And the Honorable Commissioners of Parliament beginnning their Journey the same day to wait upon his Majesty, with the Parliaments Let<g ref="char:EOLhyphen"/>ter and Answer, to his Majesties gracious Message and Decla<g ref="char:EOLhyphen"/>ration; And the Desires of both <hi>Houses.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>W. Parker</hi> and are to be sold at <hi>Ludgate</hi>-Hill, and within <hi>Black Friers</hi> Gate, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35658:2"/>
+            <pb n="3" facs="tcp:35658:2"/>
+            <head>
+               <figure>
+                  <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right with all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+               </figure>
+            </head>
+            <head>The Royal Remonstrance:</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there are many of the <hi>Knipperdolings, Fifth-Monarchy</hi> men, and the rest of that loose princi<g ref="char:EOLhyphen"/>pled <hi>Phanatick Gang,</hi> that blush not to say, <hi>That Religion will be in hazard upon a closure with the KING, and that being trained up amongst the Ro<g ref="char:EOLhyphen"/>mish party, he can do no less then gratifie them wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a toleration.</hi> No<g ref="char:EOLhyphen"/>thing (doubtless) is of more concernment than the security of Religion; and for that part of it which is Protestant, this closure seems the onely way to secure it: But we are not to hearken to such as cry up Religion, and design Faction; that cry out zeal for the Lord of Hosts, when they intend self interest; Religion has not at all prosper'd by undue practises to advance it. 'Tis <hi>piety, meekness▪ patience, humility,</hi> &amp; those graces of the Spirit that convince and convert, when rigidness, censuring, and the sword exasperate and harden. But have we not a Protestant Prince, and a Parl<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment of Protestants? Nay, such a Prince, that many of the Learned of the Church of <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</hi> say of him, as the Bishop of <hi>Monspelier</hi> in <hi>France</hi> once said of his Royal Father King <hi>Charles</hi> of ever glorious memory, <hi>That if he had been of their Religion, he had out shined all the Sai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts in their Calender.</hi> And true it is, that in the Low-Countries the very Jew hath wept at the reading of his most elegant Book (translated into <hi>Dutch) A true Entract of refi<g ref="char:EOLhyphen"/>ned pol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy, and regular pie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y)</hi> in a compassi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nate resentment of his meek patience under the savage deportment of his cruel ene<g ref="char:EOLhyphen"/>mies,
+<pb n="4" facs="tcp:35658:3"/> most undeservedly acted upon him. In a word, of so large an extent was the malice and rage of the blood-thirsty enemies of our late martyr'd Soveraign King <hi>Charles</hi> the first, that they caused their ugly and execrable Sentence, of severing his head from his body, to be executed in the open street before his royal Palace; the fatal day of the said Execution, being <hi>Tuesday, Janu<g ref="char:EOLhyphen"/>ary</hi> the 30. 1648. His Majesty ascending the Scaffold out of the Banquetting house, was not in the least affrighted, but shewed more care of the People living, then of him self dying: for after some heavenly discourse between him and the Bishop of <hi>London,</hi> having prepared himself, he lifted up his eyes to heaven, mildly praying to himself he stooped down to the block as to a Prayer-desk, and most humbly bowed his generous Neck to God, to be cut off by the Vizarded Execution<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, which was suddenly done at one blow. <hi>Thus fell</hi> King Charles, <hi>and thus all</hi> Brittain <hi>with him.</hi> But observe, what strange Witnesses were permitted to swear against his sacred Majesty, in this illegal &amp; pretended <hi>High-Court of Justice, viz.</hi> Thirty five sad miscreants, scarce a Gentleman, but most mechanicks, as <hi>Ironmongers, Painters, Tilers, Feltmakers, Shoo<g ref="char:EOLhyphen"/>makers, Cordwainers, Weavers, Glovers, Butchers,</hi> one <hi>Forgeman,</hi> one <hi>Richard Price</hi> of <hi>London</hi> Scrivener, one <hi>David Evans</hi> a Welchman Smith, <hi>Arthur Young</hi> Citizen and Barber Chirurgion of <hi>London,</hi> &amp; one <hi>Richard Price</hi> of <hi>London</hi> Scrivener..</p>
+            <p>And as if this had not been enough to satisfie their arrogancie, they most inhumanely Banished that great person of Honour the true Heir to the Crown, and his royal relations▪ <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing asha<g ref="char:EOLhyphen"/>med to see them they had so much wronged; And to compleat their wickedness (after they had visited their fellow members, because they were more honest and more numerous then them<g ref="char:EOLhyphen"/>selves,) resolved to take away any whatsoever, that should con<g ref="char:EOLhyphen"/>troul them in their Avaracie and Tyranny; whereupon they cut down those brances of Honour, the House of Lords, pulled those reverend Fathers down, the great Pillars of the Church, to sup<g ref="char:EOLhyphen"/>port it against Heresie and Schism.</p>
+            <pb n="5" facs="tcp:35658:3"/>
+            <p>And by advice of their masters the Jesuits, (the designers of the ruine of our truly reformed Church, and well-established State) under the fair glosses of Common Safety, Liberty, and Propriety, <hi>(which they meant onely to themselves)</hi> they have de<g ref="char:EOLhyphen"/>stroyed and enslaved the free born People of <hi>England,</hi> and have filled and taken possession, making themselves first S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints, and then the onely Proprietors of other mens estates and fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tunes.</p>
+            <p>They pretended to vindicate the priviledges of Parliament, and indeed raised the very Fundamental of it in their Arbitrary Power whereby contrary to the known Laws of the Land, they have erected High Courts of Justice, wherein they have mur<g ref="char:EOLhyphen"/>thered the Lords Anointed, and Sons of the loyal Nobility, and divers of the Gentry and Commonalty, persons of approved piety and integrity.</p>
+            <p>Under the vail of being good Husb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds for the Nation, they have altered the whole frame of the best Government of the Universe, to secure themselves from the just Account the esta<g ref="char:EOLhyphen"/>blished Laws would have called them to for their due Delin<g ref="char:EOLhyphen"/>quency, and giving it out, <hi>That monarchy is chargeable,</hi> have raised greater sums of money by illegal Taxes and Impositions in a Commonwealth, then all the Kings have done si<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Con<g ref="char:EOLhyphen"/>quest.</p>
+            <p>Whereas, indeed, there is nothing more demonstrative for the clearing of this, than that upon the foot of the account we shall find Kingship a great ease to the publick charge. The old Prote<g ref="char:EOLhyphen"/>ctor was allotted no less than a constant Revenew of nineteen hundred thousand pound to support the Government; yet that sum at the years end cleared not the account: And compare we this with the expences of our old Courts, when the Kings Reve<g ref="char:EOLhyphen"/>new in Lands Perquisits, and Customs, exceeded not seven hun<g ref="char:EOLhyphen"/>dred thousand pounds a year, it adorn'd it with a glorious Court, a noble equipage for the honour of the Kingdom, and yet paid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff a considerable Fleet, which has not been much improv'd by our vast payments.</p>
+            <p>But now it has pleased God, after many years expence of blood
+<pb n="6" facs="tcp:35658:4"/> and treasure, to blow off on a suddain the grand designs of the Jesuitical Faction, and restore things by strange Providence to a right understanding betwixt King and Parliament, the onely Remedy to cure the Peoples grievances: A greater Wound could not possibly have befallen the enemies of our Church and Kingdom; for well they know how he has bin lectured by his Royal Father, as well as tutoured by experience; which may enable him as to be the wisest, so the most Religious Prince; and few there are that know him, but do aver, that he is endowed with singular Christian Graces, and moral vertues: The words of his Majesties Royal Father were these:
+<q>I do require and entreat you as your Father and your King, That you n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r suffer your Heart to receive the least check or disaff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction from the true R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligion established in the Church of ENGLAND; I tell you, I have tried it; and after much search and many D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>spu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, have found it to be the best in the World; not onely in the Communitie, Chr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>stian, &amp;c. but also in the special notion as reformed; keeping the middle-way between the pomp of superstitious Tirann<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and the meekness of fantastick Anarchie: Not but that some lines as in very good figures may happilie need some sweer<g ref="char:EOLhyphen"/>ning and polishing, which might here have easilie been done by a safe and gentle hand, &amp;c. To this sence spake he, when he had no more to speak.</q>
+            </p>
+            <p>Again, his wise Father that had been beaten into the know<g ref="char:EOLhyphen"/>ledge of the English Spirit, and fore-seeing the vanity of an em<g ref="char:EOLhyphen"/>pty and unprofitable Passion, advised him in these words:
+<q>Let no pass<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, my Son, betray you to any studie of Re<g ref="char:EOLhyphen"/>venge upon those, whose own Sin and Folly will sufficient<g ref="char:EOLhyphen"/>ly punish them in due time; but as soon as the Forked Arrow of Factious Emulation is drawn out, use all Princelie Arts and Clemencie to heal the Wounds, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the smart of the
+<pb n="7" facs="tcp:35658:4"/> cure may not equal the anguish of the hurt; Let Oblivion b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> granted not onely as an Act of State-policie, but of Chr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>st<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an charitie and choice. It is all that I have left me, a po<g ref="char:EOLhyphen"/>wer to forgive those that have deprived me of all; and I thank God (<hi>writes the KING</hi>) that I have a heart to do it, and joy as much in this Grace which God has given me, as in all my former enjoyments, for to me it is a greater argument of Gods love than my prosperity: Be confident, that the mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of all sides that have done amiss, have done so not out of malice, but misinformation, or misapprehension of things: None will be more loyal to me or to you▪ then those Subjects, who sensible of their Errors and Our Injuries, will feel in their own Souls most vehement motives to Re<g ref="char:EOLhyphen"/>pentance, and earnest Desires to make some Reparations for their former Defects:</q>
+            </p>
+            <p>You may read more in the advise to his Son, which truly I cannot subscribe without a high compassion and resentment: The like said his Majesty at his last hour: But the words of Our dying Soveraign have wonderfully survived in the Breast of our living Prince, a clear demonstration whereof we have elegantly set forth in hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maj. gracious Letters and Declarations. So that infinite hopes m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y we entertain that this Prince has bin Schoo<g ref="char:EOLhyphen"/>led to underst<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his Interest; He has had glorious, though un<g ref="char:EOLhyphen"/>happy Presidents; He truly is most potent that is so in his Sub<g ref="char:EOLhyphen"/>jects, no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over his Subjects; that is great in his People, not o<g ref="char:EOLhyphen"/>ver his People; the one m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes him contemned abroad, and ab<g ref="char:EOLhyphen"/>horred at home; the other makes him feared abroad, and bel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved at home: forreign enemies can rejoyce in nothing more than our self combustions, while we consume that glorious spirit in conquering our own bowels, which other wise imployed, might be a terror to the World: Such exploits suit to the ancient glo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of the <hi>Eng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish;</hi>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his self-murthering s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emper that neither fears God nor loves man.</p>
+            <pb n="8" facs="tcp:35658:5"/>
+            <p>But by the good hand of Providence these unhappy Breaches are now again cemented, and the glittering Beams of Loyalty shine forth from both Houses of Parliament, as well as the Uni<g ref="char:EOLhyphen"/>versal concurrence of all the Commanders and forces both by Land and Sea, to receive his Majesty into his Dominions and Government, according to their bounden duty, and the Laws of the Land.</p>
+            <p>And in order thereunto, the Parliaments Commissioners ha<g ref="char:EOLhyphen"/>ving received their Instructions from both Houses, began their Journey to the King, <hi>Friday</hi> the 11th instant, to wait on his Maje<g ref="char:EOLhyphen"/>sty with a Letter, and their Answer unto his Majesties gracious Letter and Declaration: As also with the humble desires of both Houses unto his Majesty, that he would be pleased to re<g ref="char:EOLhyphen"/>turn with all speed unto his Parliament.</p>
+            <p>Sir <hi>John Greenvile</hi> began his Journey on <hi>Thursday</hi> last, to at<g ref="char:EOLhyphen"/>tend his Majesty with an accompt of the proceedings of both Houses of Parliament; Who have ordered that five thousand pound should be sent as a Present to the most Illustrious Prince the Duke of <hi>York,</hi> and five thousand pound to the Duke of <hi>Glou<g ref="char:EOLhyphen"/>cester,</hi> as a testimony of their respect to the Royal Family.</p>
+            <p>The landing of the King at <hi>Dover</hi> seems dubious, by reason that Letters dated the 4. of this present instant <hi>May,</hi> S. V. from <hi>Bredt,</hi> make mention that His M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jest<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> remai<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> still there, as also the Dukes of <hi>York</hi> and <hi>Glocester,</hi> with a grand confluence of People, and a most splendid Court.</p>
+            <p>On the 11th, his Majesty was proclaimed in <hi>Middlesex.</hi> King of <hi>Great Brittain France,</hi> and <hi>Ireland, &amp;c.</hi> the sol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mnity being car<g ref="char:EOLhyphen"/>ried on with an incredible confluence, and loud acclamations of joy the people, crying
+<q>God bless King <hi>Charles;</hi> Long live his Majesty.</q>
+            </p>
+            <epigraph>
+               <q>
+                  <l>Loe then with one accord, now l<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Ʋs cry,</l>
+                  <l>May <hi>Charles</hi> our King reign o're Ʋs, till we die.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
